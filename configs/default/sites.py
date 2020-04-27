@@ -1,5 +1,5 @@
 # 网站域名设置（请正确填写，不然订阅功能会失效：
-HOST = "http://35.220.211.244/"
+HOST = "http://www.jcjc321.ml/"
 
 # 网站密钥
 SECRET_KEY = "lijiaxin"
