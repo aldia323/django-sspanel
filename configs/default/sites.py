@@ -1,8 +1,8 @@
 # 网站域名设置（请正确填写，不然订阅功能会失效：
-HOST = "http://127.0.0.1:8000"
+HOST = "http://35.220.211.244/"
 
 # 网站密钥
-SECRET_KEY = "aasdasdas"
+SECRET_KEY = "lijiaxin"
 
 # 是否开启注册
 ALLOW_REGISTER = True
